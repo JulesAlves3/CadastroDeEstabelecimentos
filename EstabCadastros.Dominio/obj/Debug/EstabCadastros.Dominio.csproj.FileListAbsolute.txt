@@ -1,0 +1,5 @@
+C:\Users\Jules Alves\Documents\EstabCadastros\EstabCadastros.Dominio\bin\Debug\EstabCadastros.Dominio.dll
+C:\Users\Jules Alves\Documents\EstabCadastros\EstabCadastros.Dominio\bin\Debug\EstabCadastros.Dominio.pdb
+C:\Users\Jules Alves\Documents\EstabCadastros\EstabCadastros.Dominio\obj\Debug\EstabCadastros.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Jules Alves\Documents\EstabCadastros\EstabCadastros.Dominio\obj\Debug\EstabCadastros.Dominio.dll
+C:\Users\Jules Alves\Documents\EstabCadastros\EstabCadastros.Dominio\obj\Debug\EstabCadastros.Dominio.pdb

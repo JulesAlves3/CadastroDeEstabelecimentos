@@ -1,0 +1,6 @@
+C:\Users\Jules Alves\Documents\EstabCadastros\EstabCadastros.Infra\bin\Debug\EstabCadastros.Infra.dll
+C:\Users\Jules Alves\Documents\EstabCadastros\EstabCadastros.Infra\bin\Debug\EstabCadastros.Infra.pdb
+C:\Users\Jules Alves\Documents\EstabCadastros\EstabCadastros.Infra\obj\Debug\EstabCadastros.Infra.csprojAssemblyReference.cache
+C:\Users\Jules Alves\Documents\EstabCadastros\EstabCadastros.Infra\obj\Debug\EstabCadastros.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Jules Alves\Documents\EstabCadastros\EstabCadastros.Infra\obj\Debug\EstabCadastros.Infra.dll
+C:\Users\Jules Alves\Documents\EstabCadastros\EstabCadastros.Infra\obj\Debug\EstabCadastros.Infra.pdb

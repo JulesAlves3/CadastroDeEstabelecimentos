@@ -1,0 +1,2 @@
+C:\Users\Jules Alves\Documents\EstabCadastros\EstabCadastros.Servico\obj\Debug\EstabCadastros.Servico.csprojAssemblyReference.cache
+C:\Users\Jules Alves\Documents\EstabCadastros\EstabCadastros.Servico\obj\Debug\EstabCadastros.Servico.csproj.CoreCompileInputs.cache
